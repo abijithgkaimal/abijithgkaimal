@@ -1,58 +1,69 @@
+```markdown
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Abijith+G+Kaimal;Full-Stack+Software+Engineer;Building+Scalable+Retail+%26+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=180&section=header&text=Abijith%20G%20Kaimal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Retail%20Systems%20%26%20Cloud%20Platforms&descAlignY=60&descFontSize=18&descAlign=50" width="100%" alt="Header" />
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Backend+Architect;Engineering+Multi-Store+Retail+Ecosystems;Specialized+in+Node.js%2C+React%2C+AWS+%26+APIs" alt="Typing SVG" />
+  </a>
 
   <p align="center">
-    <strong>Full-Stack Engineer</strong> specializing in scalable backend architectures, multi-tenant retail platforms, and cloud workflows[cite: 1, 3].
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/abijithgkaimal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://my-portfolio-org.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:abijithgkaimal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-blue?style=flat-square" alt="Location" />
+    <a href="https://linkedin.com/in/abijithgkaimal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://my-portfolio-org.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:abijithgkaimal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 </div>
 
----
+<br />
 
-### ⚡ About Me
+### ⚡ Professional Overview
 
-- 💻 **Software Developer** at **Brynex Apparels Pvt Ltd**, engineering operations ecosystems syncing 25+ retail stores[cite: 1, 3].
-- 🛠️ **Full Lifecycle Ownership:** Experienced in building responsive web applications, high-throughput REST APIs, automated sync engines, and Flutter backend integrations[cite: 1, 3].
-- ☁️ **Cloud & Mobile Delivery:** Hands-on with AWS infrastructure (S3, CloudFront), Meta Graph APIs, and App Store Connect/TestFlight deployment flows[cite: 2, 5].
-- 🎯 **Focus Areas:** Distributed systems, database indexing & optimization, RBAC security, and event-driven architectures[cite: 1, 4].
-
----
-
-### 🧰 Tech Stack & Tools
-
-<div align="left">
-
-**Frontend & Mobile Integration**  
-`React.js` • `Next.js` • `Tailwind CSS` • `Material-UI` • `HTML5/CSS3` • `Flutter API Integration`[cite: 2, 3, 5]
-
-**Backend & APIs**  
-`Node.js` • `Express.js` • `NestJS` • `RESTful APIs` • `Swagger` • `JWT & RBAC` • `Meta Graph API`[cite: 1, 2, 5]
-
-**Databases & ORM**  
-`MongoDB Atlas` • `PostgreSQL` • `Prisma ORM` • `MySQL`[cite: 2, 5]
-
-**Cloud, DevOps & Tools**  
-`AWS (S3, CloudFront)` • `Git & GitHub` • `Postman` • `Render` • `Vercel` • `App Store Connect`[cite: 2, 5]
-
-</div>
+- 🏢 **Software Developer** at **Brynex Apparels Pvt Ltd**, driving the IT architecture for retail ecosystems syncing 25+ brick-and-mortar stores.
+- ⚙️ **End-to-End Ownership:** Designing high-throughput REST APIs, database schemas, and background synchronization engines powering web dashboards and Flutter mobile applications.
+- 🌐 **Cloud & Release Engineering:** Managing AWS media pipelines (S3, CloudFront), Meta Graph API integrations (WhatsApp/Instagram/Facebook), and App Store Connect/TestFlight release pipelines.
+- 🎯 **Engineering Focus:** High-concurrency operations, database indexing & query optimization, scalable RBAC security matrices, and robust data integrity.
 
 ---
 
-### 🚀 Key Engineering Highlights
+### 🛠️ Core Technologies & Tools
 
-- **BrynexOne (Retail Operations System):** Engineered an automated background data sync engine pulling walk-in metrics every 15 minutes, syncing 25+ retail stores with web dashboards and Flutter mobile applications[cite: 1, 3].
-- **High-Throughput Telecaller CRM:** Designed scalable MongoDB aggregation and query indexing schemas, automated round-robin lead allocation, and duplicate detection mechanisms[cite: 2, 4].
-- **Luxury E-Commerce & Admin Panel:** Built a high-performance storefront with Next.js and NestJS, featuring AWS CloudFront/S3 media delivery, dynamic inventory control, and transaction safety[cite: 5].
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres,tailwind,aws,git,github,postman,vscode&perline=8" alt="Tech Stack Icons" />
+</p>
+
+| Layer | Technologies & Ecosystems |
+| :--- | :--- |
+| **Frontend & Mobile Delivery** | React.js, Next.js, Flutter API Integration, Tailwind CSS, Material-UI, Vite |
+| **Backend & Architecture** | Node.js, Express.js, NestJS, REST APIs, Swagger, JWT, RBAC Matrices |
+| **Databases & ORM** | MongoDB Atlas, PostgreSQL, Prisma ORM, MySQL, Indexing & Aggregations |
+| **Cloud, DevOps & Tools** | AWS (S3, CloudFront), Meta Graph APIs, Render, Vercel, App Store Connect, Git |
 
 ---
+
+### 🚀 Flagship Systems & Production Impact
+
+* **BrynexOne — Retail Operations & Sync Engine**  
+  Architected an automated multi-store sync service that reconciles real-time billing and walk-in metrics every 15 minutes across 25+ retail branches, synchronizing physical billing systems with a React web interface and a Flutter mobile app.
+
+* **High-Throughput Telecaller CRM**  
+  Engineered the backend architecture for a lead management platform, integrating round-robin distribution algorithms, duplicate lead detection mechanisms, and multi-tenant indexing in MongoDB Atlas.
+
+* **Luxury E-Commerce & Admin Platform**  
+  Built a production-ready luxury storefront and admin suite using Next.js, NestJS, and PostgreSQL, leveraging AWS S3 and CloudFront CDN for optimized asset delivery and end-to-end inventory tracking.
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abijithgkaimal&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Abijith's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abijithgkaimal&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abijithgkaimal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abijith's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abijithgkaimal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="44%" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=100&section=footer" width="100%" alt="Footer" />
+</div>
+
+```
